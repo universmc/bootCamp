@@ -1,0 +1,24 @@
+/* timeline.css */
+.timeline {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    overflow-x: auto;
+}
+
+.timeline-item {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.timeline-item:hover {
+    background-color: #f0f0f0;
+}
+
+.scene-display {
+    margin-top: 20px;
+}

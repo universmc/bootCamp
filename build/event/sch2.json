@@ -1,0 +1,25 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 2,
+      "title": "Atelier de Codage Collaboratif",
+      "description": "Un groupe de participants, chacun avec des ordinateurs portables, collaborant dans un espace de travail moderne et high-tech. Des écrans géants montrent des lignes de code et des graphiques de simulation quantique.",
+      "narrativeVersion": "Un espace de travail ouvert et moderne, rempli de participants avec des ordinateurs portables. Des tables de collaboration high-tech avec des écrans géants affichant des lignes de code, des graphiques de simulation quantique et des visualisations de données en temps réel. L'ambiance est dynamique et interactive, avec des participants échangeant des idées, codant ensemble et résolvant des problèmes complexes. Des hologrammes et des projections AR ajoutent une dimension futuriste à l'espace, rendant l'expérience immersive et engageante.",
+      "imagePrompt": {
+        "description": "A modern high-tech workspace with participants using laptops. Collaboration tables with large screens displaying lines of code and quantum simulation graphics. The environment is dynamic and interactive, with holograms and AR projections enhancing the experience. The format should be 16:9.",
+        "format": "16:9",
+        "resolution": "high definition",
+        "fileType": ".webp"
+      },
+      "corpusText": "path/to/atelier_codage_collaboratif.md",
+      "voiceOverAndMusic": {
+        "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Un espace de travail ouvert et moderne, rempli de participants avec des ordinateurs portables. Des tables de collaboration high-tech avec des écrans géants affichant des lignes de code, des graphiques de simulation quantique et des visualisations de données en temps réel. L'ambiance est dynamique et interactive, avec des participants échangeant des idées, codant ensemble et résolvant des problèmes complexes. Des hologrammes et des projections AR ajoutent une dimension futuriste à l'espace, rendant l'expérience immersive et engageante.\""
+      },
+      "weeklyReport": {
+        "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+      }
+    }
+  ]
+}
+
+  

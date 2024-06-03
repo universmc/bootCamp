@@ -1,0 +1,23 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 3,
+      "title": "Chasse au Trésor en Réalité Augmentée",
+      "description": "Des participants utilisant des tablettes et des smartphones pour découvrir des indices holographiques dans un parc urbain. Les indices apparaissent comme des projections AR et les participants interagissent avec eux pour résoudre des énigmes.",
+      "narrativeVersion": "Un parc urbain animé où les participants, équipés de tablettes et de smartphones, explorent les environs à la recherche d'indices holographiques. Les indices, apparaissant comme des projections AR flottantes, offrent des énigmes et des puzzles à résoudre. Les participants se déplacent activement, interagissant avec les projections et utilisant des gestes pour manipuler les hologrammes. L'environnement est vibrant et coloré, combinant nature et technologie de manière harmonieuse.",
+      "imagePrompt": {
+        "description": "Participants using tablets and smartphones to discover holographic clues in an urban park. The clues appear as AR projections and the participants interact with them to solve puzzles. The setting is lively and colorful, blending nature and technology seamlessly. The format should be 16:9.",
+        "format": "16:9",
+        "resolution": "high definition",
+        "fileType": ".webp"
+      },
+      "corpusText": "path/to/chasse_tresor_realite_augmente.md",
+      "voiceOverAndMusic": {
+        "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Un parc urbain animé où les participants, équipés de tablettes et de smartphones, explorent les environs à la recherche d'indices holographiques. Les indices, apparaissant comme des projections AR flottantes, offrent des énigmes et des puzzles à résoudre. Les participants se déplacent activement, interagissant avec les projections et utilisant des gestes pour manipuler les hologrammes. L'environnement est vibrant et coloré, combinant nature et technologie de manière harmonieuse.\""
+      },
+      "weeklyReport": {
+        "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+      }
+    }
+  ]
+}

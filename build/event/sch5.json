@@ -1,0 +1,23 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 5,
+      "title": "Présentation de GPT-Wallet",
+      "description": "Un écran géant présentant les fonctionnalités de GPT-Wallet, avec des visualisations de transactions blockchain et des interfaces utilisateur élégantes. Les participants regardent et prennent des notes.",
+      "narrativeVersion": "Dans un grand amphithéâtre high-tech, un écran géant montre les fonctionnalités avancées de GPT-Wallet. Des visualisations dynamiques des transactions blockchain et des interfaces utilisateur sophistiquées captivent l'audience. Les participants, assis dans des sièges confortables, prennent des notes et posent des questions. L'ambiance est professionnelle et futuriste, mettant en avant la technologie de pointe.",
+      "imagePrompt": {
+        "description": "A large high-tech auditorium with a giant screen displaying advanced features of GPT-Wallet. Dynamic visualizations of blockchain transactions and sleek user interfaces captivate the audience. Participants are seen taking notes and asking questions in a professional and futuristic setting. The format should be 16:9.",
+        "format": "16:9",
+        "resolution": "high definition",
+        "fileType": ".webp"
+      },
+      "corpusText": "path/to/presentation_gpt_wallet.md",
+      "voiceOverAndMusic": {
+        "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Dans un grand amphithéâtre high-tech, un écran géant montre les fonctionnalités avancées de GPT-Wallet. Des visualisations dynamiques des transactions blockchain et des interfaces utilisateur sophistiquées captivent l'audience. Les participants, assis dans des sièges confortables, prennent des notes et posent des questions. L'ambiance est professionnelle et futuriste, mettant en avant la technologie de pointe.\""
+      },
+      "weeklyReport": {
+        "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+      }
+    }
+  ]
+}

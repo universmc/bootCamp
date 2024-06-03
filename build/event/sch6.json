@@ -1,0 +1,24 @@
+{
+    "scenes": [
+      {
+        "sceneNumber": 6,
+        "title": "Cérémonie de Remise des Prix",
+        "description": "Une scène illuminée avec des podiums et des trophées holographiques. Les gagnants des défis reçoivent des récompenses sous forme de tokens umc.coin et de certificats virtuels.",
+        "narrativeVersion": "Dans une salle de cérémonie grandiose, une scène illuminée présente des podiums où se tiennent les gagnants des défis. Des trophées holographiques flottent au-dessus des podiums, scintillant de lumière. Les participants applaudissent tandis que les gagnants reçoivent des tokens umc.coin et des certificats virtuels, visibles comme des hologrammes. L'ambiance est festive et célébratoire, mettant en avant l'excellence et l'innovation.",
+        "imagePrompt": {
+          "description": "A grand ceremony hall with an illuminated stage featuring podiums and holographic trophies. Winners are receiving rewards in the form of umc.coin tokens and virtual certificates. The atmosphere is festive and celebratory, highlighting excellence and innovation. The format should be 16:9.",
+          "format": "16:9",
+          "resolution": "high definition",
+          "fileType": ".webp"
+        },
+        "corpusText": "path/to/ceremonie_remise_prix.md",
+        "voiceOverAndMusic": {
+          "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Dans une salle de cérémonie grandiose, une scène illuminée présente des podiums où se tiennent les gagnants des défis. Des trophées holographiques flottent au-dessus des podiums, scintillant de lumière. Les participants applaudissent tandis que les gagnants reçoivent des tokens umc.coin et des certificats virtuels, visibles comme des hologrammes. L'ambiance est festive et célébratoire, mettant en avant l'excellence et l'innovation.\""
+        },
+        "weeklyReport": {
+          "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+        }
+      }
+    ]
+  }
+  

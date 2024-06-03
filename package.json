@@ -12,7 +12,7 @@
     "style": "sass --watch src/sass/saas.scss src/css/Iteration.css"
   },
   "keywords": [],
-  "author": "",
+  "author": "umc",
   "license": "GNU",
   "dependencies": {
     "@electron-forge/plugin-webpack": "^7.3.0",

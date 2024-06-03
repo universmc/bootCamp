@@ -1,0 +1,23 @@
+{
+  "scenes": [
+    {
+      "sceneNumber": 4,
+      "title": "Session de Networking en Lounge Futuriste",
+      "description": "Un lounge futuriste avec des sièges confortables, des stations de recharge sans fil, et des hologrammes interactifs. Les participants discutent et échangent des idées dans un cadre détendu et technologique.",
+      "narrativeVersion": "Dans un lounge futuriste et élégant, les participants se détendent dans des sièges confortables tout en discutant et échangeant des idées. Des stations de recharge sans fil sont disposées autour de la pièce, et des hologrammes interactifs affichent des informations en temps réel. L'atmosphère est à la fois détendue et stimulante, avec une décoration moderne et des éléments technologiques intégrés harmonieusement.",
+      "imagePrompt": {
+        "description": "A futuristic lounge with comfortable seating, wireless charging stations, and interactive holograms. Participants are seen discussing and exchanging ideas in a relaxed yet high-tech environment. The setting is sleek and modern. The format should be 16:9.",
+        "format": "16:9",
+        "resolution": "high definition",
+        "fileType": ".webp"
+      },
+      "corpusText": "path/to/networking_lounge_futuriste.md",
+      "voiceOverAndMusic": {
+        "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Dans un lounge futuriste et élégant, les participants se détendent dans des sièges confortables tout en discutant et échangeant des idées. Des stations de recharge sans fil sont disposées autour de la pièce, et des hologrammes interactifs affichent des informations en temps réel. L'atmosphère est à la fois détendue et stimulante, avec une décoration moderne et des éléments technologiques intégrés harmonieusement.\""
+      },
+      "weeklyReport": {
+        "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+      }
+    }
+  ]
+}
