@@ -1,0 +1,57 @@
+[       
+    {
+    "titre": "organisation d'un bout de camping avec l'assistant GPT",
+    "sousSections": [
+        {
+            "sousTitre": "Introduction",
+            "contenu": "Présentation de GPT-Wallet"
+        },
+        {
+            "sousTitre": "organisation d'un boutCamp",
+            "contenuMarkdown": "knowledge.md"
+        },
+        {
+            "sousTitre": "gampePlay",
+            "contenuMarkdown": "CaptureTheFlag.md"
+        },
+        {
+            "sousTitre": "gampePlay",
+            "contenuMarkdown": "TresorTree.py"
+        }
+    ]
+    },
+    {
+        "titre": "assistant GPT",
+        "sousSections": [
+            {
+                "sousTitre": "Introduction",
+                "contenu": "Présentation des compétences l'agent IA GPT-wallet et MandotoryAi_bot"
+            },
+            {
+                "sousTitre": "comptabilité",
+                "contenuMarkdown": "CompteCampagne_cnccfp-fr.md"
+            }
+        ]
+        },
+        {
+            "titre": "fonctionnalités",
+            "sousSections": [
+                {
+                    "sousTitre": "Générateur de curriculum vitae",
+                    "contenu": "génération d'une nouvelle version du curriculum vitae utilisateur"
+                },
+                {
+                    "sousTitre": "generatorCV",
+                    "contenuMarkdown": "user-cv.md"
+                },
+                {
+                    "sousTitre": "collecteur des TVA",
+                    "contenu": "Notre assistant intelligence artificielle gpt-wallet aura pour fonction de collecter la TVA en fonction de la valeur travail et du modèle d'économie circulaire afin d' opérer dans la bloque chaîne à la monétisations du curriculum vitae utilisateur grâce a des opérations de décaissement de TVA à fine regule PIB"
+                },
+                {
+                    "sousTitre": "CollectorTVA",
+                    "contenuMarkdown": "CollectorTVA.md"
+                }
+            ]
+            }
+]

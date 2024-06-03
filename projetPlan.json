@@ -1,0 +1,47 @@
+{
+    "Introduction": {
+      "Présentation": "Objectif : Plonger les participants dans le monde de l'apprentissage automatique à travers un jeu de capture de drapeau (CTF). Utilisation de GPT-Wallet pour la gestion des tokens et des ressources."
+    },
+    "Inscription": {
+      "Processus": "Les participants utilisent Telegram pour s'inscrire. Le bot MandatoryAI_Pibot vérifie leur identité et génère une adresse de portefeuille GPT Wallet.",
+      "Outils": ["Telegram", "MandatoryAI_Pibot", "GPT Wallet"]
+    },
+    "Allocation de Tokens": {
+      "Distribution": "Chaque participant reçoit un certain nombre de tokens umc.coin. Ces tokens permettent de débloquer des niveaux de difficulté, accéder à des ressources et participer à des enchères.",
+      "Outils": ["umc.coin"]
+    },
+    "Défis et Ressources": {
+      "Description": "Les défis incluent des sujets tels que la métaphysique, le calcul quantique, l'apprentissage automatique et les principes juridiques.",
+      "Collecte et Conversion": "Les participants collectent des ressources documentaires. Utilisation de l'API Web3 et des bibliothèques groq-sdk pour convertir les ressources en formats lisibles par GPT.",
+      "Outils": ["API Web3", "groq-sdk"]
+    },
+    "Intégration des Ressources dans le Gameplay": {
+      "Création de Contenu Dynamique": "Les ressources converties sont intégrées dans le jeu. Utilisation de l'IA pour créer des questions, des tâches et des niveaux de difficulté variés.",
+      "Outils": ["IA"]
+    },
+    "Gestion des Droits de Propriété Intellectuelle": {
+      "Surveillance": "Les droits de propriété intellectuelle sont gérés selon les principes du Code civil. Supervision par l'IA pour assurer le respect des droits.",
+      "Outils": ["Code civil", "IA"]
+    },
+    "Évaluation et Progression": {
+      "Suivi": "L'IA évalue constamment les performances des participants. Génération de nouveaux drapeaux (tokens) pour aider les participants à progresser.",
+      "Outils": ["IA"]
+    },
+    "Fichiers": {
+      "bootCamp.js": "Script principal définissant les étapes du gameplay et les compétences nécessaires.",
+      "bootcamp-forEach.js": "Script pour gérer l'affichage du contenu du bootcamp en HTML.",
+      "bootcamp.json": "Contient la structure des sections et sous-sections du bootcamp.",
+      "gamePay.json": "Décrit les étapes du gameplay en détail.",
+      "assistant.js": "Scripts pour intégrer les interactions avec l'IA Groq.",
+      "bootCampMd.js": "Scripts pour intégrer les interactions avec l'IA Groq."
+    },
+    "Développement et Exécution": {
+      "Configuration des Dépendances": "Voir les fichiers package.json et run.json pour les dépendances nécessaires (express, electron, groq-sdk, etc.).",
+      "Exécution": "Utilisation des scripts fournis pour démarrer l'application (commande npm start pour Electron)."
+    },
+    "CSS et Interface Utilisateur": {
+      "Styles et Mise en Page": "Voir Iteration.css pour les définitions de styles utilisés dans l'application.",
+      "Documentation Générée": "Les scripts comme bootcamphtml.js génèrent de la documentation en HTML pour faciliter l'accès et la lecture."
+    }
+  }
+  
