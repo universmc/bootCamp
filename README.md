@@ -3,12 +3,12 @@ Bonjour ChatGPT,
 Je travaille sur un projet de bootcamp dédié à l'apprentissage automatique, organisé sous forme de jeu de capture de drapeau. Les participants utiliseront Telegram et le bot MandatoryAI_Pibot pour vérifier leur identité et générer leur adresse de portefeuille GPT Wallet. Ils recevront des tokens umc.coin pour débloquer des niveaux de difficulté et participer à des enchères.
 
 J'ai quelques info spécifiques ton voici le THREAD
-thread_Cetz3zzGsZYjPpP2ITUSNhQ5 de {role:assistant,content:deFi i.c.o} gpt-wallet
-https://chatgpt.com/g/g-pihIog5MV-gpt-wallet
+
 
 
 Introduction au Projet BootCamp crewAi
 Bienvenue dans le projet BootCamp crewAi, conçu pour plonger les participants dans le monde de l'apprentissage automatique et des techniques avancées grâce à une approche ludique et interactive. Ce BootCamp est organisé sous forme de Capture The Flag (CTF) et de chasses au trésor, utilisant des outils innovants tels que GPT-Wallet et umcTokens.sol pour gérer les ressources et les récompenses.
+
 
 Étapes et Outils du BootCamp
 Inscription :

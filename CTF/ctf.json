@@ -1,0 +1,82 @@
+{
+    "project": {
+    "name":"CTF",
+    "bootCamp": "Go_To_Pro",
+    "type": "co_working open_space",
+    "focus": {
+      "machine learning": true,
+      "artificial intelligence": true,
+      "other technologies": true
+    },
+    "partners": ["OpenAI", "GitHub", "Hugging Face", "Google Cloud"],
+    "activities": {
+      "Capture The Flag": {
+        "type": "binary competition",
+        "teams": 2,
+        "platform": "windows.js"
+      },
+      "bootcamp": {
+        "planning": "Gantt chart",
+        "duration": "TBD"
+      }
+    },
+    "communication": {
+      "platform": "Telegram",
+      "video streaming": "YouTube"
+    }
+  },
+    "phases_gantt": [
+    {
+    "id": "phase-1",
+    "name": "Conception",
+    "timestamp": 1685609600,
+    "startDate": "2023-06-01",
+    "endDate": "2023-06-15",
+    "duration": "2 weeks",
+    "predecessor": null,
+    "actions": [
+    {
+    "id": "action-1",
+    "description": "Définir les objectifs",
+    "stepByStep": [
+    "Étape 1 : ...",
+    "Étape 2 : ..."
+    ],
+    "startDate": "2023-06-01",
+    "endDate": "2023-06-05",
+    "duration": "5 days",
+    "hash": "sample-hash-1"
+    },
+    {
+    "id": "action-2",
+    "description": "Planifier l'architecture",
+    "startDate": "2023-06-05",
+    "endDate": "2023-06-10",
+    "duration": "5 days",
+    "hash": "sample-hash-2"
+    }
+    ]
+    },
+    {
+    "id": "phase-2",
+    "name": "Configuration et entraînement du modèle",
+    "timestamp": 1685609600,
+    "startDate": "2023-06-16",
+    "endDate": "2023-07-07",
+    "duration": "3 weeks",
+    "predecessor": "phase-1",
+    "actions": ["action+"]
+    },
+    {
+        "id": "phase-3",
+        "name": "Train Model IA",
+        "timestamp": 1685609600,
+        "startDate": "2023-06-16",
+        "endDate": "2023-07-07",
+        "duration": "3 weeks",
+        "predecessor": "phase-1",
+        "actions": ["action+"]
+        }
+        ]
+}
+    

@@ -1,0 +1,119 @@
+{
+    "scenes": [
+      {
+        "sceneNumber": 1,
+        "title": "Conférence en Réalité Virtuelle",
+        "description": "Une salle de conférence virtuelle remplie d'avatars en VR, avec un conférencier donnant une présentation sur un grand écran holographique. Les participants sont immergés dans des environnements futuristes avec des éléments de réalité augmentée.",
+        "narrativeVersion": "Dans un vaste espace numérique, une salle de conférence virtuelle se déploie avec des avatars en VR représentant les participants. Le conférencier, vêtu de manière futuriste, se tient devant un écran holographique géant. Les participants, assis ou debout, sont entourés de projections AR affichant des données et des graphiques interactifs. L'ambiance est dynamique, avec des couleurs vives et des éléments technologiques sophistiqués qui créent une expérience immersive et engageante.",
+        "imagePrompt": {
+          "description": "A virtual conference room filled with VR avatars. A speaker is giving a presentation on a large holographic screen. Participants are immersed in futuristic environments with augmented reality elements. The setting is high-tech with vibrant colors and advanced technology displays. The format should be 16:9.",
+          "format": "16:9",
+          "resolution": "high definition",
+          "fileType": ".webp"
+        },
+        "corpusText": "path/to/markdown/document.md",
+        "voiceOverAndMusic": {
+          "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Dans un vaste espace numérique, une salle de conférence virtuelle se déploie avec des avatars en VR représentant les participants. Le conférencier, vêtu de manière futuriste, se tient devant un écran holographique géant. Les participants, assis ou debout, sont entourés de projections AR affichant des données et des graphiques interactifs. L'ambiance est dynamique, avec des couleurs vives et des éléments technologiques sophistiqués qui créent une expérience immersive et engageante.\""
+        },
+        "weeklyReport": {
+          "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+        }
+      },
+      {
+        "sceneNumber": 2,
+        "title": "Atelier de Codage Collaboratif",
+        "description": "Un groupe de participants, chacun avec des ordinateurs portables, collaborant dans un espace de travail moderne et high-tech. Des écrans géants montrent des lignes de code et des graphiques de simulation quantique.",
+        "narrativeVersion": "Un espace de travail ouvert et moderne, rempli de participants avec des ordinateurs portables. Des tables de collaboration high-tech avec des écrans géants affichant des lignes de code, des graphiques de simulation quantique et des visualisations de données en temps réel. L'ambiance est dynamique et interactive, avec des participants échangeant des idées, codant ensemble et résolvant des problèmes complexes. Des hologrammes et des projections AR ajoutent une dimension futuriste à l'espace, rendant l'expérience immersive et engageante.",
+        "imagePrompt": {
+          "description": "A modern high-tech workspace with participants using laptops. Collaboration tables with large screens displaying lines of code and quantum simulation graphics. The environment is dynamic and interactive, with holograms and AR projections enhancing the experience. The setting should be vibrant and futuristic. The format should be 16:9.",
+          "format": "16:9",
+          "resolution": "high definition",
+          "fileType": ".webp"
+        },
+        "corpusText": "path/to/atelier_codage_collaboratif.md",
+        "voiceOverAndMusic": {
+          "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Un espace de travail ouvert et moderne, rempli de participants avec des ordinateurs portables. Des tables de collaboration high-tech avec des écrans géants affichant des lignes de code, des graphiques de simulation quantique et des visualisations de données en temps réel. L'ambiance est dynamique et interactive, avec des participants échangeant des idées, codant ensemble et résolvant des problèmes complexes. Des hologrammes et des projections AR ajoutent une dimension futuriste à l'espace, rendant l'expérience immersive et engageante.\""
+        },
+        "weeklyReport": {
+          "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+        }
+      },
+      {
+        "sceneNumber": 3,
+        "title": "Chasse au Trésor en Réalité Augmentée",
+        "description": "Des participants utilisant des tablettes et des smartphones pour découvrir des indices holographiques dans un parc urbain. Les indices apparaissent comme des projections AR et les participants interagissent avec eux pour résoudre des énigmes.",
+        "narrativeVersion": "Un parc urbain animé où les participants, équipés de tablettes et de smartphones, explorent les environs à la recherche d'indices holographiques. Les indices, apparaissant comme des projections AR flottantes, offrent des énigmes et des puzzles à résoudre. Les participants se déplacent activement, interagissant avec les projections et utilisant des gestes pour manipuler les hologrammes. L'environnement est vibrant et coloré, combinant nature et technologie de manière harmonieuse.",
+        "imagePrompt": {
+          "description": "Participants using tablets and smartphones to discover holographic clues in an urban park. The clues appear as AR projections and the participants interact with them to solve puzzles. The setting is lively and colorful, blending nature and technology seamlessly. The format should be 16:9.",
+          "format": "16:9",
+          "resolution": "high definition",
+          "fileType": ".webp"
+        },
+        "corpusText": "path/to/chasse_tresor_realite_augmente.md",
+        "voiceOverAndMusic": {
+          "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Un parc urbain animé où les participants, équipés de tablettes et de smartphones, explorent les environs à la recherche d'indices holographiques. Les indices, apparaissant comme des projections AR flottantes, offrent des énigmes et des puzzles à résoudre. Les participants se déplacent activement, interagissant avec les projections et utilisant des gestes pour manipuler les hologrammes. L'environnement est vibrant et coloré, combinant nature et technologie de manière harmonieuse.\""
+        },
+        "weeklyReport": {
+          "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+        }
+      },
+      {
+        "sceneNumber": 4,
+        "title": "Session de Networking en Lounge Futuriste",
+        "description": "Un lounge futuriste avec des sièges confortables, des stations de recharge sans fil, et des hologrammes interactifs. Les participants discutent et échangent des idées dans un cadre détendu et technologique.",
+        "narrativeVersion": "Dans un lounge futuriste et élégant, les participants se détendent dans des sièges confortables tout en discutant et échangeant des idées. Des stations de recharge sans fil sont disposées autour de la pièce, et des hologrammes interactifs affichent des informations en temps réel. L'atmosphère est à la fois détendue et stimulante, avec une décoration moderne et des éléments technologiques intégrés harmonieusement.",
+        "imagePrompt": {
+          "description": "A futuristic lounge with comfortable seating, wireless charging stations, and interactive holograms. Participants are seen discussing and exchanging ideas in a relaxed yet high-tech environment. The setting is sleek and modern. The format should be 16:9.",
+          "format": "16:9",
+          "resolution": "high definition",
+          "fileType": ".webp"
+        },
+        "corpusText": "path/to/networking_lounge_futuriste.md",
+        "voiceOverAndMusic": {
+          "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Dans un lounge futuriste et élégant, les participants se détendent dans des sièges confortables tout en discutant et échangeant des idées. Des stations de recharge sans fil sont disposées autour de la pièce, et des hologrammes interactifs affichent des informations en temps réel. L'atmosphère est à la fois détendue et stimulante, avec une décoration moderne et des éléments technologiques intégrés harmonieusement.\""
+        },
+        "weeklyReport": {
+          "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+        }
+      },
+      {
+        "sceneNumber": 5,
+        "title": "Présentation de GPT-Wallet",
+        "description": "Un écran géant présentant les fonctionnalités de GPT-Wallet, avec des visualisations de transactions blockchain et des interfaces utilisateur élégantes. Les participants regardent et prennent des notes.",
+        "narrativeVersion": "Dans un grand amphithéâtre high-tech, un écran géant montre les fonctionnalités avancées de GPT-Wallet. Des visualisations dynamiques des transactions blockchain et des interfaces utilisateur sophistiquées captivent l'audience. Les participants, assis dans des sièges confortables, prennent des notes et posent des questions. L'ambiance est professionnelle et futuriste, mettant en avant la technologie de pointe.",
+        "imagePrompt": {
+          "description": "A large high-tech auditorium with a giant screen displaying advanced features of GPT-Wallet. Dynamic visualizations of blockchain transactions and sleek user interfaces captivate the audience. Participants are seen taking notes and asking questions in a professional and futuristic setting. The format should be 16:9.",
+          "format": "16:9",
+          "resolution": "high definition",
+          "fileType": ".webp"
+        },
+        "corpusText": "path/to/presentation_gpt_wallet.md",
+        "voiceOverAndMusic": {
+          "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Dans un grand amphithéâtre high-tech, un écran géant montre les fonctionnalités avancées de GPT-Wallet. Des visualisations dynamiques des transactions blockchain et des interfaces utilisateur sophistiquées captivent l'audience. Les participants, assis dans des sièges confortables, prennent des notes et posent des questions. L'ambiance est professionnelle et futuriste, mettant en avant la technologie de pointe.\""
+        },
+        "weeklyReport": {
+          "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+        }
+      },
+      {
+        "sceneNumber": 6,
+        "title": "Cérémonie de Remise des Prix",
+        "description": "Une scène illuminée avec des podiums et des trophées holographiques. Les gagnants des défis reçoivent des récompenses sous forme de tokens umc.coin et de certificats virtuels.",
+        "narrativeVersion": "Dans une salle de cérémonie grandiose, une scène illuminée présente des podiums où se tiennent les gagnants des défis. Des trophées holographiques flottent au-dessus des podiums, scintillant de lumière. Les participants applaudissent tandis que les gagnants reçoivent des tokens umc.coin et des certificats virtuels, visibles comme des hologrammes. L'ambiance est festive et célébratoire, mettant en avant l'excellence et l'innovation.",
+        "imagePrompt": {
+          "description": "A grand ceremony hall with an illuminated stage featuring podiums and holographic trophies. Winners are receiving rewards in the form of umc.coin tokens and virtual certificates. The atmosphere is festive and celebratory, highlighting excellence and innovation. The format should be 16:9.",
+          "format": "16:9",
+          "resolution": "high definition",
+          "fileType": ".webp"
+        },
+        "corpusText": "path/to/ceremonie_remise_prix.md",
+        "voiceOverAndMusic": {
+          "prompt": "Compose-moi la musique avec les voix off de ce texte : \"Dans une salle de cérémonie grandiose, une scène illuminée présente des podiums où se tiennent les gagnants des défis. Des trophées holographiques flottent au-dessus des podiums, scintillant de lumière. Les participants applaudissent tandis que les gagnants reçoivent des tokens umc.coin et des certificats virtuels, visibles comme des hologrammes. L'ambiance est festive et célébratoire, mettant en avant l'excellence et l'innovation.\""
+        },
+        "weeklyReport": {
+          "nextScenePreparation": "Préparation pour la scène suivante avec une évaluation des éléments actuels, des retours des participants, et des ajustements nécessaires pour améliorer l'immersion et l'interactivité."
+        }
+      }
+    ]
+  }
+  
